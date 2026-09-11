@@ -1,6 +1,6 @@
 {
   "name": "agent-ui-components",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Production-grade React components for AI agent interfaces — chat, streaming, tool calls, thought traces, and status indicators.",
   "type": "module",
   "main": "./dist/index.js",
