@@ -133,11 +133,20 @@ export default {
 
 ---
 
+## 💸 Support / Pro
+
+**agent-ui-components** is MIT-licensed and free. If it saves you time:
+
+- **Buy me a coffee / sponsor** → [GitHub Sponsors](https://github.com/sponsors/finnvosi)
+- **Pro components** → coming soon (Buy on Gumroad)
+
+---
+
 ## License
 
 MIT — free for personal and commercial use.
 
-**Pro tier** ($19/mo via GitHub Sponsors) unlocks private components, themes, and early access.
+**Pro tier** unlocks private components, themes, and early access.
 
 ---
 
