@@ -1,5 +1,5 @@
 {
-  "name": "agent-ui-kit",
+  "name": "agent-ui-components",
   "version": "0.1.0",
   "description": "Production-grade React components for AI agent interfaces — chat, streaming, tool calls, thought traces, and status indicators.",
   "type": "module",
@@ -42,6 +42,18 @@
     "tool-calls"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnvosi/agent-ui-kit"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "author": {
+    "name": "finnevernight",
+    "url": "https://github.com/finnvosi"
+  },
   "devDependencies": {
     "@changesets/cli": "^2.27.0",
     "@types/react": "^19.0.0",
